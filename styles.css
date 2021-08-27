@@ -1,0 +1,14 @@
+#navbar{
+    position: fixed;
+}
+@media (min-width: 1024px){
+#navbar{
+    text-align: left;
+}
+}
+@media (min-width: 300px){
+    .main-section{
+      background-color: rgb(123,231,09)
+      font-family: monospace;
+    }
+}
