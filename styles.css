@@ -72,8 +72,16 @@ header{
   margin-bottom: -20px;
 }
 p{
-  font-family: cursive;
+  font-family: 'cursive';
 }
 img{
  border-radius: 30%;
+}
+#list{
+    font-family: 'Luminari', 'fantasy';
+    color: rgba(255, 0, 170, 0.651);
+    border: 4px dotted blue
+    
+    
+    ;
 }
